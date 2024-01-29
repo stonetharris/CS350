@@ -1,0 +1,241 @@
+root@284d9e82318d:/mnt/hw7_src# /usr/bin/time -v build/server_mimg -q 1500 -w 1 -p FIFO 3000 >> output_run_n.txt
+	Command being timed: "build/server_mimg -q 1500 -w 1 -p FIFO 3000"
+	User time (seconds): 5.41
+	System time (seconds): 0.04
+	Percent of CPU this job got: 30%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:17.98
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 36252
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 10074
+	Voluntary context switches: 212
+	Involuntary context switches: 14
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+root@284d9e82318d:/mnt/hw7_src# /usr/bin/time -v build/server_mimg -q 1500 -w 1 -p FIFO 3000 >> output_run_n.txt
+	Command being timed: "build/server_mimg -q 1500 -w 1 -p FIFO 3000"
+	User time (seconds): 5.40
+	System time (seconds): 0.03
+	Percent of CPU this job got: 28%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.83
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 34832
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 10276
+	Voluntary context switches: 279
+	Involuntary context switches: 12
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+root@284d9e82318d:/mnt/hw7_src# /usr/bin/time -v build/server_mimg -q 1500 -w 1 -p FIFO 3000 >> output_run_n.txt
+	Command being timed: "build/server_mimg -q 1500 -w 1 -p FIFO 3000"
+	User time (seconds): 5.40
+	System time (seconds): 0.03
+	Percent of CPU this job got: 30%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:17.65
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 35108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 10272
+	Voluntary context switches: 246
+	Involuntary context switches: 15
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+root@284d9e82318d:/mnt/hw7_src# /usr/bin/time -v build/server_mimg -q 1500 -w 1 -p FIFO 3000 >> output_run_n.txt
+	Command being timed: "build/server_mimg -q 1500 -w 1 -p FIFO 3000"
+	User time (seconds): 5.40
+	System time (seconds): 0.01
+	Percent of CPU this job got: 31%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:17.25
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 34908
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 10251
+	Voluntary context switches: 205
+	Involuntary context switches: 10
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+root@284d9e82318d:/mnt/hw7_src# /usr/bin/time -v build/server_mimg -q 1500 -w 1 -p FIFO 3000 >> output_run_n.txt
+	Command being timed: "build/server_mimg -q 1500 -w 1 -p FIFO 3000"
+	User time (seconds): 5.39
+	System time (seconds): 0.02
+	Percent of CPU this job got: 29%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 34764
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 10270
+	Voluntary context switches: 245
+	Involuntary context switches: 18
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+root@284d9e82318d:/mnt/hw7_src# /usr/bin/time -v build/server_mimg -q 1500 -w 1 -p FIFO 3000 >> output_run_n.txt
+	Command being timed: "build/server_mimg -q 1500 -w 1 -p FIFO 3000"
+	User time (seconds): 5.40
+	System time (seconds): 0.02
+	Percent of CPU this job got: 31%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:17.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 36372
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 10139
+	Voluntary context switches: 237
+	Involuntary context switches: 12
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+root@284d9e82318d:/mnt/hw7_src# /usr/bin/time -v build/server_mimg -q 1500 -w 1 -p FIFO 3000 >> output_run_n.txt
+	Command being timed: "build/server_mimg -q 1500 -w 1 -p FIFO 3000"
+	User time (seconds): 5.41
+	System time (seconds): 0.02
+	Percent of CPU this job got: 31%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:17.48
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 36552
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 10117
+	Voluntary context switches: 245
+	Involuntary context switches: 25
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+root@284d9e82318d:/mnt/hw7_src# /usr/bin/time -v build/server_mimg -q 1500 -w 1 -p FIFO 3000 >> output_run_n.txt
+	Command being timed: "build/server_mimg -q 1500 -w 1 -p FIFO 3000"
+	User time (seconds): 5.42
+	System time (seconds): 0.02
+	Percent of CPU this job got: 32%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:16.98
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 36344
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 10133
+	Voluntary context switches: 291
+	Involuntary context switches: 16
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+root@284d9e82318d:/mnt/hw7_src# /usr/bin/time -v build/server_mimg -q 1500 -w 1 -p FIFO 3000 >> output_run_n.txt
+	Command being timed: "build/server_mimg -q 1500 -w 1 -p FIFO 3000"
+	User time (seconds): 5.41
+	System time (seconds): 0.02
+	Percent of CPU this job got: 30%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:17.62
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 36320
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 10094
+	Voluntary context switches: 245
+	Involuntary context switches: 13
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+root@284d9e82318d:/mnt/hw7_src# /usr/bin/time -v build/server_mimg -q 1500 -w 1 -p FIFO 3000 >> output_run_n.txt
+	Command being timed: "build/server_mimg -q 1500 -w 1 -p FIFO 3000"
+	User time (seconds): 5.42
+	System time (seconds): 0.01
+	Percent of CPU this job got: 31%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:17.47
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 36648
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 3
+	Minor (reclaiming a frame) page faults: 10208
+	Voluntary context switches: 227
+	Involuntary context switches: 14
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+root@284d9e82318d:/mnt/hw7_src# 
